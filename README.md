@@ -4,7 +4,7 @@ Welcome to the Interactive Model Poster project!
 
 ## Preview
 
-![Interactive Model Poster]()
+![Interactive Model Poster](https://github.com/amith7025/Interactive-poster-using-photoshop/blob/main/poster.png)
 
 *Caption: A snapshot of the interactive model poster showcasing its design and key features.*
 
